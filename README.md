@@ -1,6 +1,7 @@
 # learn-go-with-tests
 Learning Go with Test Driven Development using [this](https://quii.gitbook.io/learn-go-with-tests/) tutorial.
 
+## Topics
 
 1. [Hello, World](./hello)
 1. [Integers](./integers)
