@@ -1,4 +1,4 @@
-# learn-go-with-tests
+# Learn Go with Tests
 Learning Go with Test Driven Development using [this](https://quii.gitbook.io/learn-go-with-tests/) tutorial.
 
 ## Topics
