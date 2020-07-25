@@ -7,7 +7,7 @@ Learning Go with Test Driven Development using [this](https://quii.gitbook.io/le
 1. [Integers](./integers)
 1. [Iteration](./iteration)
 1. [Arrays and Slices](./arrays-and-slices)
-1. Structs, Methods & Interfaces
+1. [Structs, Methods & Interfaces](./structs-methods-and-interfaces)
 1. Pointers & Errors
 1. Maps
 1. Dependency Injection
@@ -17,4 +17,3 @@ Learning Go with Test Driven Development using [this](https://quii.gitbook.io/le
 1. Reflecton
 1. Sync
 1. Context
-
