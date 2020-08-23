@@ -35,3 +35,5 @@ jobs:
 
     - name: Test
       run: go test ./... -v .
+        go test -bench=. ./... -v
+        go test -race ./... -v

@@ -14,7 +14,7 @@ Learning Go with Test Driven Development using [this](https://quii.gitbook.io/le
 1. [Maps](./maps)
 1. [Dependency Injection](./dependency-injection)
 1. [Mocking](./mocking)
-1. Concurrency
+1. [Concurrency](./concurrency)
 1. Select
 1. Reflecton
 1. Sync
